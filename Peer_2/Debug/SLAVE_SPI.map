@@ -1,0 +1,739 @@
+Archive member included because of file (symbol)
+
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./main.o (__do_copy_data)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./Timer_program.o (__do_clear_bss)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./main.o (__fixunssfsi)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./main.o (__mulsf3)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./main.o (__divsf3)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./main.o (__gtsf2)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./main.o (__ltsf2)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./EEP_Prog.o
+LOAD ./SPI_progarm.o
+LOAD ./TWI_Prog.o
+LOAD ./Timer_program.o
+LOAD ./UART_program.o
+LOAD ./dio.o
+LOAD ./gie.o
+LOAD ./main.o
+LOAD d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x24ec
+ *(.vectors)
+ .vectors       0x00000000       0x54 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_1
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_3
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_2
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./EEP_Prog.o
+ .text          0x00000092        0x0 ./SPI_progarm.o
+ .text          0x00000092        0x0 ./TWI_Prog.o
+ .text          0x00000092        0x0 ./Timer_program.o
+ .text          0x00000092        0x0 ./UART_program.o
+ .text          0x00000092        0x0 ./dio.o
+ .text          0x00000092        0x0 ./gie.o
+ .text          0x00000092        0x0 ./main.o
+ .text          0x00000092        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632      0x158 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x00000632                __divsf3
+ .text          0x0000078a       0x60 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x0000078a                __gtsf2
+ .text          0x000007ea       0x60 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x000007ea                __gesf2
+ .text          0x0000084a       0x60 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x0000084a                __ltsf2
+ .text          0x000008aa       0xa8 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x000008aa                __fixsfsi
+ .text          0x00000952        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000952        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000952        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000952      0x1aa d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000952                __pack_f
+ .text          0x00000afc       0xf0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000afc                __unpack_f
+ .text          0x00000bec       0xb2 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000bec                __fpcmp_parts_f
+                0x00000c9e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.EEP_WriteByte
+                0x00000c9e       0x34 ./EEP_Prog.o
+                0x00000c9e                EEP_WriteByte
+ .text.EEP_WriteBlock
+                0x00000cd2       0x64 ./EEP_Prog.o
+                0x00000cd2                EEP_WriteBlock
+ .text.EEP_ReadByte
+                0x00000d36       0x48 ./EEP_Prog.o
+                0x00000d36                EEP_ReadByte
+ .text.EEP_ReadBlock
+                0x00000d7e       0x90 ./EEP_Prog.o
+                0x00000d7e                EEP_ReadBlock
+ .text.SPI_VidMasterInit
+                0x00000e0e       0x70 ./SPI_progarm.o
+                0x00000e0e                SPI_VidMasterInit
+ .text.SPI_VidSlaveInit
+                0x00000e7e       0x38 ./SPI_progarm.o
+                0x00000e7e                SPI_VidSlaveInit
+ .text.SPI_U8TranSceive
+                0x00000eb6       0x2c ./SPI_progarm.o
+                0x00000eb6                SPI_U8TranSceive
+ .text.TWI_voidInitMaster
+                0x00000ee2       0x66 ./TWI_Prog.o
+                0x00000ee2                TWI_voidInitMaster
+ .text.TWI_voidInitSlave
+                0x00000f48       0x42 ./TWI_Prog.o
+                0x00000f48                TWI_voidInitSlave
+ .text.TWI_SendStartCondition
+                0x00000f8a       0x54 ./TWI_Prog.o
+                0x00000f8a                TWI_SendStartCondition
+ .text.TWI_SendRepeatedStart
+                0x00000fde       0x54 ./TWI_Prog.o
+                0x00000fde                TWI_SendRepeatedStart
+ .text.TWI_MasterSendAdrres
+                0x00001032       0xb0 ./TWI_Prog.o
+                0x00001032                TWI_MasterSendAdrres
+ .text.TWI_MasterSendData
+                0x000010e2       0x52 ./TWI_Prog.o
+                0x000010e2                TWI_MasterSendData
+ .text.TWI_MasterReadDataWithAck
+                0x00001134       0x6c ./TWI_Prog.o
+                0x00001134                TWI_MasterReadDataWithAck
+ .text.TWI_MasterReadDataWithNack
+                0x000011a0       0x6c ./TWI_Prog.o
+                0x000011a0                TWI_MasterReadDataWithNack
+ .text.TWI_SendStopCondition
+                0x0000120c       0x2a ./TWI_Prog.o
+                0x0000120c                TWI_SendStopCondition
+ .text.TIMER0_Vid_init
+                0x00001236       0xf2 ./Timer_program.o
+                0x00001236                TIMER0_Vid_init
+ .text.TIMER0_Interrupt_Enable
+                0x00001328       0x1c ./Timer_program.o
+                0x00001328                TIMER0_Interrupt_Enable
+ .text.TIMER0_Interrupt_Disable
+                0x00001344       0x1c ./Timer_program.o
+                0x00001344                TIMER0_Interrupt_Disable
+ .text.TIMER0_Vid_SetCompMatchValue
+                0x00001360       0x1c ./Timer_program.o
+                0x00001360                TIMER0_Vid_SetCompMatchValue
+ .text.TIMER0_Vid_SetFpwm_Mode
+                0x0000137c       0x72 ./Timer_program.o
+                0x0000137c                TIMER0_Vid_SetFpwm_Mode
+ .text.TIMERS_u8Timer0SetCallBack
+                0x000013ee       0x3a ./Timer_program.o
+                0x000013ee                TIMERS_u8Timer0SetCallBack
+ .text.TIMERS_u8Timer0CTCSetCallBack
+                0x00001428       0x3a ./Timer_program.o
+                0x00001428                TIMERS_u8Timer0CTCSetCallBack
+ .text.__vector_11
+                0x00001462       0x98 ./Timer_program.o
+                0x00001462                __vector_11
+ .text.__vector_10
+                0x000014fa       0x90 ./Timer_program.o
+                0x000014fa                __vector_10
+ .text.UART_VidSendData
+                0x0000158a       0x34 ./UART_program.o
+                0x0000158a                UART_VidSendData
+ .text.UART_VidReceiveData
+                0x000015be       0x24 ./UART_program.o
+                0x000015be                UART_VidReceiveData
+ .text.UART_VidInit
+                0x000015e2       0x52 ./UART_program.o
+                0x000015e2                UART_VidInit
+ .text.MDIO_vidSetPinDirection
+                0x00001634      0x214 ./dio.o
+                0x00001634                MDIO_vidSetPinDirection
+ .text.MDIO_vidSetPinValue
+                0x00001848      0x214 ./dio.o
+                0x00001848                MDIO_vidSetPinValue
+ .text.MDIO_vidGetPinValue
+                0x00001a5c      0x108 ./dio.o
+                0x00001a5c                MDIO_vidGetPinValue
+ .text.MDIO_vidSetPortDirection
+                0x00001b64       0x84 ./dio.o
+                0x00001b64                MDIO_vidSetPortDirection
+ .text.MDIO_vidSetPortValue
+                0x00001be8       0x84 ./dio.o
+                0x00001be8                MDIO_vidSetPortValue
+ .text.MDIO_vidGetPortValue
+                0x00001c6c       0x9a ./dio.o
+                0x00001c6c                MDIO_vidGetPortValue
+ .text.MGIE_vidEnable
+                0x00001d06       0x1c ./gie.o
+                0x00001d06                MGIE_vidEnable
+ .text.MGIE_vidDisable
+                0x00001d22       0x1c ./gie.o
+                0x00001d22                MGIE_vidDisable
+ .text.TurnOnHeater
+                0x00001d3e       0xaa ./main.o
+                0x00001d3e                TurnOnHeater
+ .text.TurnOnCooler
+                0x00001de8       0xaa ./main.o
+                0x00001de8                TurnOnCooler
+ .text.TurnOnEqualLed
+                0x00001e92       0x36 ./main.o
+                0x00001e92                TurnOnEqualLed
+ .text.CompareTemp
+                0x00001ec8       0x4a ./main.o
+                0x00001ec8                CompareTemp
+ .text.main     0x00001f12      0x568 ./main.o
+                0x00001f12                main
+ .text.libgcc   0x0000247a        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000247a        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000247a        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000247a       0x38 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x0000247a                __prologue_saves__
+ .text.libgcc   0x000024b2       0x36 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x000024b2                __epilogue_restores__
+                0x000024e8                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000024e8        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x000024e8                exit
+                0x000024e8                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000024e8        0x4 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000024ec                _etext = .
+
+.data           0x00800060        0xc load address 0x000024ec
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./EEP_Prog.o
+ .data          0x00800060        0x0 ./SPI_progarm.o
+ .data          0x00800060        0x0 ./TWI_Prog.o
+ .data          0x00800060        0x0 ./Timer_program.o
+ .data          0x00800060        0x0 ./UART_program.o
+ .data          0x00800060        0x0 ./dio.o
+ .data          0x00800060        0x0 ./gie.o
+ .data          0x00800060        0x0 ./main.o
+ .data          0x00800060        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800060        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800060        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800060        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800060        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800060        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800060        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x00800060        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00800060        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800060        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00800060        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800060        0x8 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x00800060                __thenan_sf
+ .data          0x00800068        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800068        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800068        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800068        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800068        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.data*)
+ .data.DutyCycle
+                0x00800068        0x4 ./main.o
+                0x00800068                DutyCycle
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x0080006c                . = ALIGN (0x2)
+                0x0080006c                _edata = .
+                0x0080006c                PROVIDE (__data_end, .)
+
+.bss            0x0080006c        0x8
+                0x0080006c                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x0080006c        0x0 ./EEP_Prog.o
+ .bss           0x0080006c        0x0 ./SPI_progarm.o
+ .bss           0x0080006c        0x0 ./TWI_Prog.o
+ .bss           0x0080006c        0x0 ./Timer_program.o
+ .bss           0x0080006c        0x0 ./UART_program.o
+ .bss           0x0080006c        0x0 ./dio.o
+ .bss           0x0080006c        0x0 ./gie.o
+ .bss           0x0080006c        0x0 ./main.o
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x0080006c        0x0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.bss*)
+ .bss.TIMERS_pfTimer0OVF
+                0x0080006c        0x2 ./Timer_program.o
+ .bss.TIMERS_pfTimer0CTC
+                0x0080006e        0x2 ./Timer_program.o
+ .bss.Local_u16OCounterOVF.1342
+                0x00800070        0x2 ./Timer_program.o
+ .bss.Local_u16OCounterCTC.1358
+                0x00800072        0x2 ./Timer_program.o
+ *(COMMON)
+                0x00800074                PROVIDE (__bss_end, .)
+                0x000024ec                __data_load_start = LOADADDR (.data)
+                0x000024f8                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800074        0x0
+                0x00800074                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800074                PROVIDE (__noinit_end, .)
+                0x00800074                _end = .
+                0x00800074                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x23b8
+ *(.stab)
+ .stab          0x00000000      0x438 ./EEP_Prog.o
+ .stab          0x00000438      0x1f8 ./SPI_progarm.o
+                                0x270 (size before relaxing)
+ .stab          0x00000630      0x654 ./TWI_Prog.o
+                                0x6f0 (size before relaxing)
+ .stab          0x00000c84      0x570 ./Timer_program.o
+                                0x5e8 (size before relaxing)
+ .stab          0x000011f4      0x210 ./UART_program.o
+                                0x288 (size before relaxing)
+ .stab          0x00001404      0x4d4 ./dio.o
+                                0x4e0 (size before relaxing)
+ .stab          0x000018d8      0x2f4 ./gie.o
+                                0x36c (size before relaxing)
+ .stab          0x00001bcc      0x7ec ./main.o
+                                0xa68 (size before relaxing)
+
+.stabstr        0x00000000     0x1213
+ *(.stabstr)
+ .stabstr       0x00000000     0x1213 ./EEP_Prog.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x160
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000100       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000120       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000140       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x18f
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000e7       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000107       0x22 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x00000129       0x1f d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000148       0x21 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x00000169       0x26 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_info     0x00000000     0x2045
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000102b      0x27f d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x000012aa      0x27f d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x00001529      0x2b0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000017d9      0x12c d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001905      0x2df d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00001be4      0x251 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00001e35      0x210 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1101
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000007d2      0x15a d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x0000092c      0x15a d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000a86      0x17f d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000c05       0xad d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000cb2      0x1c0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00000e72      0x154 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00000fc6      0x13b d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_line     0x00000000      0xf82
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000837       0xd3 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000090a       0xd3 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x000009dd      0x109 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000ae6       0x90 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000b76      0x18a d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000d00      0x14b d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00000e4b      0x137 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_frame    0x00000000      0x180
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000c0       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000e0       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000100       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000120       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000140       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000160       0x20 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2c2
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233       0x35 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000268        0xf d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000277        0x8 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000027f        0x8 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000287        0xa d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x00000291       0x16 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002a7        0xb d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002b2       0x10 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+
+.debug_loc      0x00000000      0x88e
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000055e       0x3c d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000059a       0x3c d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x000005d6       0x7e d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000654      0x13e d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000792       0xac d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000083e       0x50 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(SLAVE_SPI.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 d:/iti embedded basic/01- imt sdk-20230805t164142z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)

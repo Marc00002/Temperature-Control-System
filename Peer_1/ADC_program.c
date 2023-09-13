@@ -1,0 +1,53 @@
+/*
+ * ADC_program.c
+ *
+ *  Created on: Aug 24, 2023
+ *      Author: DELL
+ */
+#include"STD_TYPES.h"
+#include"BIT_MATHS.h"
+
+#include"ADC_config.h"
+#include"ADC_private.h"
+#include"ADC_interface.h"
+
+void ADC_VidInIt(void)
+{
+	/*vcc reference voltage*/
+	SET_BIT(ADMUX,ADMUX_REFS0);
+	CLR_BIT(ADMUX,ADMUX_REFS1);
+
+	/*ACTIVE RIGHT ADJUST*/
+	CLR_BIT(ADMUX,ADMUX_ADLAR);
+
+	/*ADC CLOCK (PRESCALER)*/
+	SET_BIT(ADCSRA,ADCSRA_ADPS2);
+	SET_BIT(ADCSRA,ADCSRA_ADPS1);
+	SET_BIT(ADCSRA,ADCSRA_ADPS0);
+
+	/*Enable ADC*/
+
+	SET_BIT(ADCSRA,ADCSRA_ADEN);
+
+
+}
+u16 ADC_u16ReadChannelSyn(u8 Copy_u8Channel)
+{
+	/*CLEAR THE MUX OF BITS*/
+	ADMUX&=0b11100000;
+
+	/*SET THE REQUIRED CHANNEL INTO THE MUX*/
+	ADMUX|=Copy_u8Channel;
+
+	/*START CONVERSION*/
+	SET_BIT(ADCSRA,ADCSRA_ADSC);
+
+	/*POLLING (BUSY WAITING) UNTIL THE CONVERSION COMPLETE FLAG IS SET*/
+	while((GET_BIT(ADCSRA,ADCSRA_ADIF))==0);
+
+	/*CLEAR THE CONVERSION COMPLETE FLAG*/
+	SET_BIT(ADCSRA,ADCSRA_ADIF);
+
+	/*RETURN THE CONVERSION READING*/
+	return ADCL_H;
+}
