@@ -2,7 +2,7 @@
  * SPI_interface.h
  *
  *  Created on: Aug 31, 2023
- *      Author: DELL
+ *      Author: TEAM
  */
 
 #ifndef SPI_INTERFACE_H_

@@ -1,8 +1,8 @@
 /*
  * Timer_interface.h
  *
- *  Created on: Aug 27, 2023
- *      Author: DELL
+ *  Created on: 
+ *      Author: TEAM
  */
 
 #ifndef TIMER_INTERFACE_H_

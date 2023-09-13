@@ -1,8 +1,8 @@
 /*
  * LCD.h
  *
- *  Created on: Aug 14, 2021
- *      Author: Mosad
+ *  Created on:
+ *      Author: TEAM
  */
 
 #ifndef LCD_INTERFACE_H_

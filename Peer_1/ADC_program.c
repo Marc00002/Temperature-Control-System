@@ -2,7 +2,7 @@
  * ADC_program.c
  *
  *  Created on: Aug 24, 2023
- *      Author: DELL
+ *      Author: TEAM
  */
 #include"STD_TYPES.h"
 #include"BIT_MATHS.h"

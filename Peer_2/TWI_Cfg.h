@@ -1,8 +1,8 @@
 /*
  * SPI
  *
- *  Created on: Aug 27, 2021
- *      Author: Mosad
+ *  Created on: 
+ *      Author: TEAM
  */
 #ifndef TWI_CFG_
 #define TWI_CFG_

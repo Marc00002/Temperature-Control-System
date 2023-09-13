@@ -2,7 +2,7 @@
  * ADC_interface.h
  *
  *  Created on: Aug 24, 2023
- *      Author: DELL
+ *      Author: TEAM
  */
 
 #ifndef ADC_INTERFACE_H_
