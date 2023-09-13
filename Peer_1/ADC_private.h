@@ -2,7 +2,7 @@
  * ADC_private.h
  *
  *  Created on: Aug 24, 2023
- *      Author: DELL
+ *      Author: TEAM
  */
 
 #ifndef ADC_PRIVATE_H_

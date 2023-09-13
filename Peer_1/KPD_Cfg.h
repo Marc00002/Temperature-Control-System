@@ -2,7 +2,7 @@
  * KPD_Cfg.h
  *
  *  Created on: Aug 17, 2021
- *      Author: Mosad
+ *      Author: TEAM
  */
 
 #ifndef KPD_CFG_H_

@@ -1,8 +1,8 @@
 /*
  * GIE.c
  *
- *  Created on: Septemper 1, 2021
- *      Author: Mosad
+ *  Created on:
+ *      Author: TEAM
  */
 #include "STD_TYPES.h"
 #include "BIT_MATHS.h"

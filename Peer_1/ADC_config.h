@@ -2,7 +2,7 @@
  * ADC_config.h
  *
  *  Created on: Aug 24, 2023
- *      Author: DELL
+ *      Author: TEAM
  */
 
 #ifndef ADC_CONFIG_H_

@@ -1,8 +1,8 @@
 /*
  * SPI_private.h
  *
- *  Created on: Aug 31, 2023
- *      Author: DELL
+ *  Created on: 
+ *      Author: TEAM
  */
 
 #ifndef SPI_PRIVATE_H_

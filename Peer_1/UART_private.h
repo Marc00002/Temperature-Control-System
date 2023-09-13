@@ -2,7 +2,7 @@
  * UART_private.h
  *
  *  Created on: Aug 30, 2023
- *      Author: DELL
+ *      Author: TEAM
  */
 
 #ifndef UART_PRIVATE_H_

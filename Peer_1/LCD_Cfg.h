@@ -1,8 +1,8 @@
 /*
  * LCD_Cfg.h
  *
- *  Created on: Aug 17, 2021
- *      Author: Mosad
+ *  Created on: 
+ *      Author: TEAM
  */
 
 #ifndef LCD_CFG_H_
