@@ -1,6 +1,6 @@
 # Temperature-Control-System
 
-Sure, here's a description of a temperature sensor project in embedded C with the specified functionalities, presented in points:
+
 
 **Temperature Sensor Project in Embedded C**
 
